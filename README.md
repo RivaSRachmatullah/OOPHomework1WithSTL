@@ -1,7 +1,7 @@
 Homework for IF2210 - Object Oriented Programming	{#mainpage}
 ==================================================
 
-This homework is using C++ for Programming Language. It has classes for representing Date and Time and both of them. It also has class Queue and Teller for representing Banks'Queue. Class Event is a controlling class for user's input. There is a main file that use all of them named main.cpp.
+This homework is using C++ for Programming Language. It has classes for representing Date and Time and both of them. It also has class Teller for representing Banks' queue. Class Event is a controlling class for user's input. There is a main file that use all of them named main.cpp.
 
 <b>Problem Description :</b><br>
 Pada sebuah bank, ada N teller, di depan masing-masing teller ada antrian. Ada N buah teller dinomori T(0) s.d T(N-1). Q(i) adalah antrian di depan teller T(i).<br>
